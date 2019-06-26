@@ -1,3 +1,4 @@
 *.pyc
 .idea/*
 staging/*
+USFM-Tools/transform/built/*
